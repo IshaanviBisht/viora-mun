@@ -110,9 +110,14 @@ hr {
 .sec {
     text-align: center;
     font-size: 50px;
+    color: #ff1a1a;
+    text-shadow:
+        0 0 10px red,
+        0 0 20px red,
+        0 0 40px darkred;
 }
 
-.sec-section {
+.app-section {
     text-align: center;
     padding: 80px 20px;
 }
